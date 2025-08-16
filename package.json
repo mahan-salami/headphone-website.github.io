@@ -5,5 +5,8 @@
     "react-slick": "^0.31.0",
     "slick-carousel": "^1.8.1",
     "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
